@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Logs
+*.log
+seating_arrangement.log
+
+# Temporary files
+temp_input.xlsx
+*.tmp
+
+# Output files (optional - remove if you want to track them)
+output/
+output_test/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Photos (optional - remove if you want to track photos)
+# photos/
+
